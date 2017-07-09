@@ -9,7 +9,7 @@ In k-NN classification, the output is a class membership. An object is classifie
 
 ## Why uses this C++ library ?
 
-So this library uses Armadillo, armadillo uses high optimizations with SIMD, OpenMP etc... if you need performance take it... 
+So this library uses Armadillo, armadillo uses high optimizations with BLAS, LAPACK, SIMD, OpenMP etc... if you need performance take it... 
 
 
 ## Example:
