@@ -5,13 +5,14 @@ In pattern recognition, the k-nearest neighbors algorithm (k-NN) is a non-parame
 
 In k-NN classification, the output is a class membership. An object is classified by a majority vote of its neighbors, with the object being assigned to the class most common among its k nearest neighbors (k is a positive integer, typically small). If k = 1, then the object is simply assigned to the class of that single nearest neighbor.
 
-By wikipedia see more here https://en.wikipedia.org/wiki/K-nearest\_neighbors\_algorithm
+*Description by wikipedia* see more here https://en.wikipedia.org/wiki/K-nearest\_neighbors\_algorithm
 
-Why uses it ?
+## Why uses this C++ library ?
+
 So this library uses Armadillo, armadillo uses high optimizations with SIMD, OpenMP etc... if you need performance take it... 
 
 
-Example:
+## Example:
 
 Install armadillo lib, at debian distros based follow this command:
 
@@ -55,6 +56,6 @@ Test Euclidean:
 
 Do you have any suggestions or improves?
 
-Contact: coolerlair [at] gmail [dot] com
+Contact me coolerlair [at] gmail [dot] com
 
 
