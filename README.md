@@ -11,6 +11,8 @@ In k-NN classification, the output is a class membership. An object is classifie
 
 So this library uses Armadillo, armadillo uses high optimizations with BLAS, LAPACK, SIMD, OpenMP etc... if you need performance take it... 
 
+Configs options http://arma.sourceforge.net/docs.html#config_hpp
+
 
 ## Example:
 
