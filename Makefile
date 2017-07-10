@@ -11,4 +11,4 @@ all:
 	rm *.o
 
 clean:
-	rm -f *.o heap_detective
+	rm -f *.o 
