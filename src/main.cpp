@@ -17,16 +17,16 @@ int main()
 	X4 << 0.9 << 1.0 << 2.6 << 2.2 << endr;
 	X5 << 9.0 << 7.0 << 4.6 << 4.2 << endr;
 	
-    cout << "Test Manhattan:" << endl;
-    cout << "1: " << X1 << "\tResult: " << datatest.Classify("manhattan", X1, 10) << endl;
-    cout << "2: " << X2 << "\tResult: " << datatest.Classify("manhattan", X2, 10) << endl;
-    cout << "3: " << X3 << "\tResult: " << datatest.Classify("manhattan", X3, 10) << endl;
-    cout << "4: " << X4 << "\tResult: " << datatest.Classify("manhattan", X4, 10) << endl;
-    cout << "5: " << X5 << "\tResult: " << datatest.Classify("manhattan", X5, 10) << endl;
+    	cout << "Test Manhattan:" << endl;
+    	cout << "1: " << X1 << "\tResult: " << datatest.Classify("manhattan", X1, 10) << endl;
+    	cout << "2: " << X2 << "\tResult: " << datatest.Classify("manhattan", X2, 10) << endl;
+    	cout << "3: " << X3 << "\tResult: " << datatest.Classify("manhattan", X3, 10) << endl;
+    	cout << "4: " << X4 << "\tResult: " << datatest.Classify("manhattan", X4, 10) << endl;
+    	cout << "5: " << X5 << "\tResult: " << datatest.Classify("manhattan", X5, 10) << endl;
 	cout << "\n";
 
-    cout << "Test Euclidean:" << endl;
-    cout << "1: " << X1 << "\tResult: " << datatest.Classify("euclidean", X1, 10) << endl;
+    	cout << "Test Euclidean:" << endl;
+    	cout << "1: " << X1 << "\tResult: " << datatest.Classify("euclidean", X1, 10) << endl;
 	cout << "2: " << X2 << "\tResult: " << datatest.Classify("euclidean", X2, 10) << endl;
 	cout << "3: " << X3 << "\tResult: " << datatest.Classify("euclidean", X3, 10) << endl;
 	cout << "4: " << X4 << "\tResult: " << datatest.Classify("euclidean", X4, 10) << endl;
