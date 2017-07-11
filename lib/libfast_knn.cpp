@@ -48,7 +48,7 @@ int FastKNN::Distance()
                 {
                 	Maximum_Poll=Counter_of_classes.at(label);
                 	Maximum_classes=label;
-           	    }
+		}
 
             ++i;
         }
