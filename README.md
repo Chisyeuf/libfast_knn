@@ -60,4 +60,6 @@ Do you have any suggestions or improves?
 
 Contact me coolerlair [at] gmail [dot] com
 
+Paper in portuguese: https://coolerlab.wordpress.com/2017/07/09/classificacao-knn-rapida-como-the-flash/
+
 
